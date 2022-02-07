@@ -1,4 +1,4 @@
-### Hi there 👋
+![Cover](https://github.com/JonaPlaz/JonaPlaz/blob/main/img/github-profile-php-code-editor.png)
 
 <!--
 **JonaPlaz/JonaPlaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
