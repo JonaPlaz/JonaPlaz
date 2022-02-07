@@ -1,4 +1,3 @@
-<h1 align="center"> 👋 </h1>
 <div align="center">
   <img src="https://github.com/JonaPlaz/JonaPlaz/blob/main/img/cover.jpg" alt="header"/>
 </div>
