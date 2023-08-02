@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/JonaPlaz/JonaPlaz/blob/main/img/cover.jpg" alt="header"/>
+  <img src="https://github.com/JonaPlaz/JonaPlaz/blob/main/img/jona-web-developer.jpg" alt="header"/>
 </div>
 
 <a href="https://twitter.com/jonaPlazDev">
