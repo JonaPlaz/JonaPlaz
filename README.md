@@ -6,11 +6,11 @@
 
 ### 👋 Qui je suis
 
-Développeur Web depuis 2021, après une dizaine d'années en tant que contrôleur de gestion et responsable administratif et financier. Ce parcours me sert au quotidien : je comprends vite les enjeux métier d'un projet — devis, facturation, ERP, reporting — et je conçois les solutions techniques autour.
+Développeur Web depuis 2021, après une dizaine d'années comme contrôleur de gestion et responsable administratif et financier. Un parcours utile au quotidien : les enjeux métier d'un projet — devis, facturation, ERP, reporting — se comprennent vite, et les solutions techniques se construisent autour.
 
-J'aime prendre le temps de comprendre un problème en profondeur, garder une communication claire avec l'équipe, et livrer quelque chose de fiable et maintenable.
+Prendre le temps de comprendre un problème en profondeur, garder une communication claire avec l'équipe, livrer une solution fiable et maintenable.
 
-J'aime beaucoup travailler avec les agents IA — **Claude Code** au quotidien, **Codex** en complément — et je reste curieux d'explorer tout ce qu'ils permettent.
+Au quotidien, développement avec des agents IA : **Claude Code** en tête, **Codex** en complément.
 
 ### 🧰 Stack
 
