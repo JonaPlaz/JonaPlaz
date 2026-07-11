@@ -22,7 +22,7 @@
   <circle cx="66"  cy="53" r="6.5" fill="#ff5f56"/>
   <circle cx="88"  cy="53" r="6.5" fill="#ffbd2e"/>
   <circle cx="110" cy="53" r="6.5" fill="#27c93f"/>
-  <text x="600" y="58" text-anchor="middle" class="mono" font-size="15" fill="#6e7681">jonathan@dev — freelance</text>
+  <text x="600" y="58" text-anchor="middle" class="mono" font-size="15" fill="#6e7681">jona@dev</text>
 
   <!-- contenu -->
   <g class="mono" font-size="21">
