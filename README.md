@@ -10,7 +10,7 @@ Développeur Web depuis 2021, après une dizaine d'années comme contrôleur de 
 
 Prendre le temps de comprendre un problème en profondeur, garder une communication claire avec l'équipe, livrer une solution fiable et maintenable.
 
-Au quotidien, développement avec des agents IA : **Claude Code** en tête, **Codex** en complément.
+Au quotidien : implémentation avec **Claude Code**, revue de code avec **Codex**.
 
 ### 🧰 Stack
 
