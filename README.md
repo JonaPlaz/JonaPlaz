@@ -12,12 +12,6 @@ J'aime prendre le temps de comprendre un problème en profondeur, garder une com
 
 Je travaille beaucoup avec des agents IA — **Claude Code** au quotidien, **Codex** en complément. Ça me permet d'avancer vite et de livrer aussi la partie front (Next.js, TypeScript), même si mon cœur d'expertise reste le backend Symfony.
 
-### 🛠️ Ce que je fais
-
-- **Backend Symfony / PHP** — DDD, architecture hexagonale, SDD
-- **Outils métier & finance** — ERP, CRM, devis, facturation, reporting
-- **Delivery assisté par agents IA** — Claude Code, Codex ; features livrées de bout en bout, front compris
-
 ### 🧰 Stack
 
 **Backend**
