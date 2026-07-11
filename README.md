@@ -14,7 +14,7 @@ Je travaille beaucoup avec des agents IA — **Claude Code** au quotidien, **Cod
 
 ### 🛠️ Ce que je fais
 
-- **Backend Symfony / PHP** — DDD, architecture hexagonale, TDD
+- **Backend Symfony / PHP** — DDD, architecture hexagonale, SDD
 - **Outils métier & finance** — ERP, CRM, devis, facturation, reporting
 - **Delivery assisté par agents IA** — Claude Code, Codex ; features livrées de bout en bout, front compris
 
