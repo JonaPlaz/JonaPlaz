@@ -44,7 +44,7 @@
     <text x="720" y="112"><tspan class="sym">$</tspan><tspan class="cmd" dx="14">status</tspan></text>
     <text x="720" y="145"><tspan class="sym">&gt;</tspan><tspan class="ok" dx="14">● disponible</tspan></text>
     <text x="720" y="188"><tspan class="sym">$</tspan><tspan class="cmd" dx="14">zone</tspan></text>
-    <text x="720" y="221"><tspan class="role" dx="14">full remote · Paris hybride · CH romande</tspan></text>
+    <text x="720" y="221"><tspan class="role" dx="14">full remote · Paris hybride</tspan></text>
 
     <text x="720" y="373"><tspan class="sym">$</tspan></text>
   </g>
