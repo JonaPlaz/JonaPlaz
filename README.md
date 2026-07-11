@@ -24,9 +24,6 @@ Je travaille beaucoup avec des agents IA — **Claude Code** au quotidien, **Cod
 
 ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![API Platform](https://img.shields.io/badge/API_Platform-38A5E0?style=flat-square&logo=apiplatform&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 *Méthodo : SDD - DDD · Architecture hexagonale · Agile Scrum*
