@@ -10,7 +10,7 @@ Développeur Web depuis 2021, après une dizaine d'années en tant que contrôle
 
 J'aime prendre le temps de comprendre un problème en profondeur, garder une communication claire avec l'équipe, et livrer quelque chose de fiable et maintenable.
 
-Je travaille beaucoup avec des agents IA — **Claude Code** au quotidien, **Codex** en complément. Ça me permet d'avancer vite et de livrer aussi la partie front (Next.js, TypeScript), même si mon cœur d'expertise reste le backend Symfony.
+J'aime beaucoup travailler avec les agents IA — **Claude Code** au quotidien, **Codex** en complément — et je reste curieux d'explorer tout ce qu'ils permettent.
 
 ### 🧰 Stack
 
