@@ -29,7 +29,7 @@ Je travaille beaucoup avec des agents IA — **Claude Code** au quotidien, **Cod
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-*Méthodo : DDD · Architecture hexagonale · TDD · Agile Scrum*
+*Méthodo : SDD - DDD · Architecture hexagonale · Agile Scrum*
 
 **Outillage agentique**
 
