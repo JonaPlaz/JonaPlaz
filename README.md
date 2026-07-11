@@ -6,7 +6,7 @@
 
 ### 👋 Qui je suis
 
-Développeur Web depuis 2021, après une dizaine d'années comme contrôleur de gestion et responsable administratif et financier. Un parcours utile au quotidien : les enjeux métier d'un projet — devis, facturation, ERP, reporting — se comprennent vite, et les solutions techniques se construisent autour.
+Développeur Web depuis 2021, après une dizaine d'années comme contrôleur de gestion et responsable administratif et financier.
 
 Prendre le temps de comprendre un problème en profondeur, garder une communication claire avec l'équipe, livrer une solution fiable et maintenable.
 
