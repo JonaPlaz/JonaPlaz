@@ -1,42 +1,26 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JonaPlaz/JonaPlaz/main/img/2025-banner-linkedin.png" alt="Jonathan Plazanet — Développeur Backend Symfony & Ingénierie agentique"/>
+  <img src="https://raw.githubusercontent.com/JonaPlaz/JonaPlaz/main/img/banner-terminal.svg" alt="Jonathan Plazanet — Développeur Agentique · Backend Symfony · Claude Code, Codex · jgplazanet@gmail.com · disponible"/>
 </div>
 
-<h1 align="center">Jonathan Plazanet</h1>
+<br/>
 
-<p align="center">
-  <strong>Développeur Backend Symfony freelance · Ingénierie agentique · ex-contrôleur de gestion</strong>
-</p>
+### 👋 Qui je suis
 
-<p align="center">
-  Full remote · Paris hybride · ouvert à la Suisse romande
-</p>
+Développeur backend Symfony depuis 2021, après une dizaine d'années en contrôle de gestion. Ce parcours me sert au quotidien : je comprends vite les enjeux métier d'un projet — devis, facturation, ERP, reporting — et je conçois les solutions techniques autour.
 
----
+J'aime prendre le temps de comprendre un problème en profondeur, garder une communication claire avec l'équipe, et livrer quelque chose de fiable et maintenable.
 
-### 👋 En bref
-
-Développeur **backend Symfony** avec un profil atypique : **dix ans en contrôle de gestion** avant de coder. Je conçois des **outils métier fiables** — ERP, CRM, devis, facturation, reporting — parce que je comprends le business de l'intérieur.
-
-Et je ne me contente pas d'utiliser l'IA : **j'industrialise le développement avec des agents spécialisés** et des specs comme source de vérité. Résultat : je livre des features complètes, **frontend compris**, plus vite et avec moins de régressions.
-
-> 💡 **Ma conviction** : plus le temps avance, moins le langage compte.
-> Ce qui fait la différence, c'est **l'orchestration et l'architecture**.
-
----
+Je travaille beaucoup avec des agents IA — **Claude Code** au quotidien, **Codex** en complément. Ça me permet d'avancer vite et de livrer aussi la partie front (Next.js, TypeScript), même si mon cœur d'expertise reste le backend Symfony.
 
 ### 🛠️ Ce que je fais
 
-- **Backend Symfony / PHP** — DDD, architecture hexagonale, TDD *(code écrit à la main, cœur d'expertise)*
-- **Outils métier & finance** — ERP, CRM, devis/facturation, simulateurs, reporting
-- **Delivery agentique** — features livrées de bout en bout (front Next.js / TypeScript compris) via orchestration d'agents IA
-- **Mise en place de workflows agentiques** dans une équipe
-
----
+- **Backend Symfony / PHP** — DDD, architecture hexagonale, TDD
+- **Outils métier & finance** — ERP, CRM, devis, facturation, reporting
+- **Delivery assisté par agents IA** — Claude Code, Codex ; features livrées de bout en bout, front compris
 
 ### 🧰 Stack
 
-**Maîtrise manuelle (backend)**
+**Backend (code écrit à la main)**
 
 ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
@@ -45,7 +29,12 @@ Et je ne me contente pas d'utiliser l'IA : **j'industrialise le développement a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-*Méthodo : DDD · Architecture hexagonale · TDD · Clean code · Agile Scrum*
+*Méthodo : DDD · Architecture hexagonale · TDD · Agile Scrum*
+
+**Outillage agentique**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
 
 **Livré via orchestration d'agents**
 
@@ -53,14 +42,13 @@ Et je ne me contente pas d'utiliser l'IA : **j'industrialise le développement a
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
----
+### 🤝 Me contacter
 
-### 🤝 Travaillons ensemble
+Disponible pour des missions freelance en **backend Symfony** et **delivery agentique**, sur le marché francophone (France, Suisse romande).
 
-**Disponible immédiatement** pour des missions freelance en **backend Symfony** et **delivery agentique**, sur le marché francophone (France, Suisse romande).
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jonathan-plazanet/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/jonathan-plazanet/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jgplazanet@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
