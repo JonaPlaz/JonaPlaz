@@ -6,11 +6,7 @@
 
 ### 👋 Qui je suis
 
-Développeur backend Symfony depuis 2021, après une dizaine d'années en contrôle de gestion. Ce parcours me sert au quotidien : je comprends vite les enjeux métier d'un projet — devis, facturation, ERP, reporting — et je conçois les solutions techniques autour.
-
-J'aime prendre le temps de comprendre un problème en profondeur, garder une communication claire avec l'équipe, et livrer quelque chose de fiable et maintenable.
-
-Je travaille beaucoup avec des agents IA — **Claude Code** au quotidien, **Codex** en complément. Ça me permet d'avancer vite et de livrer aussi la partie front (Next.js, TypeScript), même si mon cœur d'expertise reste le backend Symfony.
+Développeur Web depuis 2021, après une dizaine d'années en tant que contrôleur de gestion et responsable administratif et financier.
 
 ### 🧰 Stack
 
