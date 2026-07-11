@@ -8,8 +8,6 @@
 
 Développeur Web depuis 2021, après une dizaine d'années en tant que contrôleur de gestion et responsable administratif et financier.
 
-J'aime prendre le temps de comprendre un problème en profondeur, garder une communication claire avec l'équipe, et livrer une solution fiable et maintenable.
-
 ### 🧰 Stack
 
 **Backend**
