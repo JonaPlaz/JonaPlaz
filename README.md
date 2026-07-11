@@ -36,12 +36,6 @@ Je travaille beaucoup avec des agents IA — **Claude Code** au quotidien, **Cod
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
 
-**Livré via orchestration d'agents**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
 ### 🤝 Me contacter
 
 Disponible pour des missions freelance **dev agentique — backend Symfony**, full remote ou Paris hybride.
