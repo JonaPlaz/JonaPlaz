@@ -44,7 +44,7 @@ Je travaille beaucoup avec des agents IA — **Claude Code** au quotidien, **Cod
 
 ### 🤝 Me contacter
 
-Disponible pour des missions freelance en **backend Symfony** et **delivery agentique**, en France — full remote ou Paris hybride.
+Disponible pour des missions freelance **dev agentique — backend Symfony**, full remote ou Paris hybride.
 
 <a href="https://www.linkedin.com/in/jonathan-plazanet/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
