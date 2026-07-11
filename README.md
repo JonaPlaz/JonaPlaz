@@ -20,7 +20,7 @@ Je travaille beaucoup avec des agents IA — **Claude Code** au quotidien, **Cod
 
 ### 🧰 Stack
 
-**Backend (code écrit à la main)**
+**Backend**
 
 ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
