@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Jonathan Plazanet — Développeur Agentique, Backend Symfony. Outils : Claude Code, Codex. Contact : jgplazanet@gmail.com. Disponible.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Jonathan Plazanet — Développeur Agentique, Backend Symfony / PHP. Méthode : implémentation avec Claude Code, revue avec Codex. Contact : jgplazanet@gmail.com. Disponible.">
   <defs>
     <style>
       .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
@@ -30,10 +30,10 @@
     <text x="76" y="145"><tspan class="sym">&gt;</tspan><tspan class="name" dx="14" font-size="27">Jonathan Plazanet</tspan></text>
 
     <text x="76" y="188"><tspan class="sym">$</tspan><tspan class="cmd" dx="14">role</tspan></text>
-    <text x="76" y="221"><tspan class="sym">&gt;</tspan><tspan class="role" dx="14">Développeur Agentique · Backend Symfony</tspan></text>
+    <text x="76" y="221"><tspan class="sym">&gt;</tspan><tspan class="role" dx="14">Développeur Agentique · Backend Symfony / PHP</tspan></text>
 
-    <text x="76" y="264"><tspan class="sym">$</tspan><tspan class="cmd" dx="14">tools</tspan></text>
-    <text x="76" y="297"><tspan class="sym">&gt;</tspan><tspan class="tool" dx="14">Claude Code · Codex</tspan></text>
+    <text x="76" y="264"><tspan class="sym">$</tspan><tspan class="cmd" dx="14">methode</tspan></text>
+    <text x="76" y="297"><tspan class="sym">&gt;</tspan><tspan class="tool" dx="14">implémentation : Claude Code · revue : Codex</tspan></text>
 
     <text x="76" y="340"><tspan class="sym">$</tspan><tspan class="cmd" dx="14">contact --email</tspan></text>
     <text x="76" y="373"><tspan class="sym">&gt;</tspan><tspan class="mail" dx="14">jgplazanet@gmail.com</tspan></text>
